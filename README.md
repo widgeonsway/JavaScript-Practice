@@ -1,2 +1,3 @@
 # JavasScript-Course
-JavaScript Course
+
+JavaScript Course from Jonas Schmedtmann on Udemny
